@@ -1,0 +1,26 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 1203
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• traiter comme urticaire
+• AR dans 15 jours pour degression progressive en cas d'amélioration
+
+TRAITEMENT PRESCRIT:
+• levostamine 1 cp x 2 par jour
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

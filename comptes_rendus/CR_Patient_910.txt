@@ -1,0 +1,27 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 910
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• -état stationnaire
+• -parfois des idées suicidaires mais sans passage à l'acte
+• glycémie à jeun: 6.21mmol/l (élevé)
+
+TRAITEMENT PRESCRIT:
+• iono: 140/4/110
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

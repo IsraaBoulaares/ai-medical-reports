@@ -1,0 +1,25 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 377
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• conclusion du dossier FA HTA Ice cardiaque droite
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

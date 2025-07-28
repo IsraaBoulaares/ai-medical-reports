@@ -1,0 +1,26 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 422
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• ECG chez le généraliste Bradycardie sinusale à 50/min pas de troubles de repolarisation
+• bilan ancien aggravation de la creat à 177 umol/l sans arret du lopril
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

@@ -1,0 +1,25 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 479
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• bilan pré iso
+
+TRAITEMENT PRESCRIT:
+• clamycine 250 mg 02 cp x 02 par j x 07 j
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

@@ -1,0 +1,30 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 1102
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• -perdue de vue depuis 11 mois
+• -humeur anxieuse
+• -rapporte qu'elle se sent toujours anxieuse durant la saison d'été
+• -sommeil perturbé
+• -refuse les médicaments par peur des effets indésirables
+• -demande un congé pour s'occuper mieux de son fils
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

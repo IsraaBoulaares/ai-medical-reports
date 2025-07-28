@@ -1,0 +1,27 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 1202
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• Pas d'antécédents particuliers mentionnés
+
+EXAMEN CLINIQUE:
+• décrit des lésions érythémateuses mal limitées maculeuses appparaissant dans les minutes qui suivent la consommation de pastèque et disparaissant dans moins de 48h
+• examen ras, dermographisme neg
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• non prurigineuses
+• pas de signe associé
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

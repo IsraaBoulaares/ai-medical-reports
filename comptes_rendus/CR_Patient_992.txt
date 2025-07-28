@@ -1,0 +1,28 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 992
+Type de consultation: Consultation Générale
+
+ANTÉCÉDENTS:
+• _ATCDs (F): pére était suivie pour TAG a ma consultation
+• _ATCD (P) :RAS
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• _Age15ans
+• _Parentsvivants
+• _élève en 9éme AB : collège Pilote
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]

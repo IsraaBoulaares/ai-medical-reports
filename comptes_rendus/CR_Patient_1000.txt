@@ -1,0 +1,27 @@
+
+COMPTE RENDU DE CONSULTATION
+============================
+
+Date: 18/07/2025
+Patient ID: 1000
+Type de consultation: Dermatologie - Alopécie
+
+ANTÉCÉDENTS:
+• 53 ans, pas d'ATCD, pas de ttt en cours, pas d'allergie médicamenteuse connue
+
+EXAMEN CLINIQUE:
+• Examen clinique détaillé réalisé
+
+DIAGNOSTIC ET CONDUITE À TENIR:
+• chute de cheveux depuis 02 mois et mélasma
+• raréfaction de la chevelure, anisotrichie, test de traction négatif
+• mélasma des joues
+
+TRAITEMENT PRESCRIT:
+• Pas de traitement médicamenteux prescrit
+
+SUIVI:
+• Contrôle selon évolution
+• Revoir si nécessaire
+
+Dr. [Nom du médecin]
