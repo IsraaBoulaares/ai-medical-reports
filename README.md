@@ -116,8 +116,3 @@ Medications:
        ↓
  [Text, PDF, Word, HTML Reports]
 
-
-
-That way someone could copy just this README, run the script inside it, and the project would work end-to-end.  
-
-Do you want me to add the `pipeline.py` inside this same file?
